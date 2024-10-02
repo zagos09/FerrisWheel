@@ -2,6 +2,6 @@ FerrisWheel is a simple HTML and CSS project that visually represents a Ferris w
 
 Features
 
-Ferris Wheel Animation: Simulates the movement of a Ferris wheel.
+-Ferris Wheel Animation: Simulates the movement of a Ferris wheel.
 
-HTML/CSS-Based: No JavaScript required.
+-HTML/CSS-Based: No JavaScript required.
